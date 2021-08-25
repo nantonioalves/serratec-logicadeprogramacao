@@ -1,4 +1,4 @@
-># Bolo para o café
+># Bolo para o café Da tarde.
 
 
 
@@ -13,7 +13,7 @@
 
 ### Modo de preparo 
 
-1. Bater o açúcar, a margarina e os ovos.
+1. Bater o açúcar, a margarina e os ovos 
 1. Depois acrescente a farinha de trigo, o leite e por último o fermento
 1. Unte a forma com farinha.
 1. Asse por mais ou menos 40 minutos.
