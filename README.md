@@ -1,2 +1,2 @@
-# serratec-logicadeprograma-o
+# serratec-logicadeprogramacao
 Meu repositório logica de programação
