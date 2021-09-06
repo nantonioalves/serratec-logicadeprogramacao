@@ -1,0 +1,33 @@
+
+
+
+# Aula zero Dissertativo:
+
+
+1)Qual o fluxo de funcionamento do computador? Ou ainda, como devemos organizar nosso pensamento na hora de escrever algoritmos? 
+
+R-> Entrada - Prossesamento - Saida. Inicio e fim.  
+
+2)Qual o algoritmo utilizado por estudantes, por tradição, para escrever seu primeiro programa?
+
+R-> Olá Mundo.
+
+3)Qual a tecla de atalho amiga do programador? Aquela que salva sua vida?
+
+R->   Ctrl + S (Vou fazer duas camisas, uma pra mim e outra pro Moises...)
+
+4)Quando criamos um novo programa JavaScript, como precisamos salvar os arquivos?
+
+R-> Em uma pasta dentro de C:/serratec/logica/fase... e sempre com o nome e .js 
+
+5)Podemos dizer que a linguagem da máquina é a mesma linguagem de programação? Justifique.
+
+R-> Não, linguagem de maquina sao 0, e 1. binário. linguagem de programação é a linguagem em que o programador usa para passar instruções a maquina.
+
+6)Segundo o professor, qual o percentual de importância do zero na programação?
+
+R-> 50%
+
+7)No editor de código, o que acontece ao digitar Shift + S?
+
+R-> digita uma letra S maiuscula. 

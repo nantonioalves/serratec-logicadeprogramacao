@@ -1,0 +1,10 @@
+var numeroDevendedores = 3;
+var endereçoCompleto = "visconde da penha , 223";
+var preçoetanol = 7.00;
+var lampada = true; false;
+var cepCompleto = 25655-122
+var andarElevador = 1; 2; 3;
+var ledElevador = true; false;
+var dataNiverMoises = 01/10/2021
+var pesoPrato = 0.500;
+var boisfazenda = 35

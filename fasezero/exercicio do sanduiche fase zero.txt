@@ -1,0 +1,18 @@
+
+
+
+exercicio do sanduiche
+
+pegar prato
+pegar faca
+pegar pao
+cortar pao
+abrir pao
+pegar manteiga
+passar manteiga no pao com a faca
+pegar queijo
+colocar queijo no pao
+pegar presunto
+colocar presunto no pao
+fechar pao
+colocar no prato
